@@ -26,7 +26,7 @@ pinout:
   ui[7]: "number 8"
 
   # Outputs
-  uo[0]: "segment A"
+  uo[0]: "Segment A"
   uo[1]: "segment B"
   uo[2]: "segment C"
   uo[3]: "segment D"
