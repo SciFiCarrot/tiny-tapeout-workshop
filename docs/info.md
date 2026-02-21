@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You input a number through the input pins. Multiple inputs at once are not supported yet.
+That number gets converted to a seven segment display input showing that number.
 
 ## How to test
 
-Explain how to use your project
+Input a number and get one out
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Not used
